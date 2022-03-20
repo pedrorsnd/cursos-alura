@@ -1,3 +1,3 @@
 # cursos-alura
 
-Repositório destinado aos arquivos gerados nos cursos da Alura
+Repository for files generated in Alura courses
